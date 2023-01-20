@@ -1,0 +1,1 @@
+# shrec2023-symmetry-detection
